@@ -1,6 +1,8 @@
 # smartplugin
 It is the template of wireshark-1.12.10  plugins 
 
+该项目为生成wireshark插件的模板。
+
 #attention
 The Wireshark version is 1.12.10. If your wireshark's version is different from this version,
 you may be modify the code.
